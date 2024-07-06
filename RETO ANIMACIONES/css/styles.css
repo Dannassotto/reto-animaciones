@@ -1,0 +1,55 @@
+body {
+    font-family: 'Alfa Slab One', cursive;
+    font-size:6rem;
+    background:#2c333a;
+}
+.a{
+    color: rgb(30, 104, 104);
+    text-align: center;
+    margin-right: 20vw;
+    -webkit-transform: perspective(150px) rotateX(45deg);
+    transform: perspective(150px) rotateX(45deg);
+    
+    
+}
+.b{
+    color: rgb(92, 121, 121);
+    text-align: center;
+    margin-top: -12vw;
+    margin-right: 13vw;
+    
+}
+
+.c{
+    color: rgb(30, 104, 104);
+    text-align: center;
+    margin-top: -12vw;
+    margin-right: 2vw;
+}
+.d {
+    color: rgb(92, 121, 121);
+    text-align: center;
+    margin-top: -12vw;
+    margin-left:9vw ;
+}
+.e{
+    color: rgb(30, 104, 104);
+    text-align: center;
+    margin-top: -12vw;
+    margin-left:16vw ;
+}
+.f{
+    color: rgb(92, 121, 121);
+    text-align: center;
+    margin-top: -12vw;
+    margin-left:23vw ;
+}
+
+.g{
+    color: rgb(30, 104, 104);
+    text-align: center;
+    margin-top: -12vw;
+    margin-left:30vw ;
+}
+  
+  

@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(104, 168, 228);
+}
+.nube{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    color: white;
+}
