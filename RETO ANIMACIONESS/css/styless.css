@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(76, 131, 156);
+    overflow: hidden; /* Evita que aparezcan barras de desplazamiento */
+}
+
+.nube {
+    position: absolute;
+    top: 5%;
+    left: -20%; /* Empieza fuera de la pantalla */
+    animation-name: nube;
+    animation-duration: 12s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+.nubes {
+    position: absolute;
+    top: 40%;  /* Aumenta la distancia desde la parte superior */
+    left: -20%; /* Ajusta el punto de partida en el eje X */
+    animation-name: nubes;
+    animation-duration: 18s; 
+    animation-delay: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes nube {
+    0% { left: -20%; }
+    100% { left: 100%; }
+}
+
+@keyframes nubes {
+    0% { left: -20%; }
+    100% { left: 100%; }
+}
