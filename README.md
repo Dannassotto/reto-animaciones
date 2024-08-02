@@ -1,5 +1,5 @@
 # RETO ANIMACIONES
-_Este repositorio contiene diferentes archivos html con sus respectivos css que basan en diferentes animaciones que son las siguientes:
+Este repositorio contiene diferentes archivos html con sus respectivos css que basan en diferentes animaciones que son las siguientes:
 
 - Caminata
 - Texto (up & love)
